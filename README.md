@@ -4,4 +4,4 @@ Git and GitHub tutorial
 sample Git and GitHub
 <br><br>
 
-From :-Nupriya Saxena
+**From :-Nupriya Saxena**
